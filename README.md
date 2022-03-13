@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shalev Gerbi
-- 👀 I’m interested in Java, C, C#, .NET, Python, Linux,HTML ,CSS ,Javascript ,React ,Next.js ,SQL,NOSQL, Object Oriented programming, Complex algorithms and music is my passion.
+- 👀 I’m interested in Java, C, C#, .NET, Python, Linux,HTML ,CSS ,Javascript ,React ,Next.js ,SQL ,NOSQL ,Object Oriented programming, Complex algorithms and music is my passion.
 - 🌱 I’m currently learning Bsc in Computer science.
-- 💞️ I’m looking to collaborate on usefull and intersting projects.
+- 🔍I’m looking to collaborate on usefull and intersting projects.
 - 📫 How to reach me: mail me shalevgerb@gmail.com
